@@ -1,4 +1,4 @@
-kat_download_torent_files
+kat_download_torrent_files
 =========================
 
 Usage
